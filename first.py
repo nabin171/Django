@@ -1,1 +1,3 @@
-print("hello world")
+a="Ramayan"
+
+print("sqyare",a.endswith("yan"))
