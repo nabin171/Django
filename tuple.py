@@ -1,0 +1,5 @@
+a=(1,2,3,4,5,False,"Ravi")
+ram=a.count(4)
+print(ram)
+i=a.index(4)
+print(i)

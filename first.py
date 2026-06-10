@@ -1,3 +1,4 @@
-a="Ramayan"
+a="Ramayan is  the best book\n and i amd proud of it" \
+"i love that"
 
-print("sqyare",a.endswith("yan"))
+print("sqyare",a.find("is"))
