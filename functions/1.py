@@ -33,7 +33,7 @@ def greatest(a,b,c):
     else:
         return c
     
-a=1
+a=1000
 b=2
 c=3
 
